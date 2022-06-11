@@ -8,7 +8,7 @@
 
 
 #Method of the String object, common in Python 3 before f string introduced in 3.6.3
-x = 42
+x = 69
 print("Hello, World. {}".format(x))
 print(f"Hello, World. {x}")
 
